@@ -1,0 +1,5 @@
+personal_finance_main:
+    resource: "@PersonalFinanceMainBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

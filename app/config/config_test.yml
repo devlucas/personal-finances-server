@@ -14,3 +14,13 @@ web_profiler:
 
 swiftmailer:
     disable_delivery: true
+
+doctrine:
+    dbal:
+        driver: sqlite
+        host: null
+        dbname: null
+        user: null
+        password: null
+        charset: UTF8
+        memory: true
